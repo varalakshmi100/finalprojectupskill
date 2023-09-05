@@ -1,0 +1,3 @@
+2023-05-16 15:29:14 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "INSERT INTO ADMIN_REGISTER VALUES('vara',[*]'vara);"; SQL statement:
+INSERT INTO ADMIN_REGISTER VALUES('vara','vara); [42000-214]
